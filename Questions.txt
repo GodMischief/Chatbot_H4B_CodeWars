@@ -1,0 +1,11 @@
+Whats your name?
+what do you do?
+Who created you?
+Tell me about yourself?
+What is your hobby?
+What is your favourite time of the day?
+What do you love the most?
+Who is your favourite hero?
+Do you like humans?
+Do you eat?
+Tell me a joke.
